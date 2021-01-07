@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/eq63g1duefts0shn?svg=true)](https://ci.appveyor.com/project/la-chispa/ajs-homework-6-destructuring)
